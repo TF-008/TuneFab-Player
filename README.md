@@ -1,15 +1,14 @@
 # TuneFab Player
 
-TuneFab Player is a lightweight yet powerful music player for Android and iOS, designed to deliver a smooth, high-quality offline listening experience for locally stored audio files and saved music from platforms like Spotify, Apple Music, Amazon Music, and more.
+TuneFab Player is a lightweight yet powerful music player for Android and iOS, designed to deliver a smooth, high-quality offline listening experience for locally stored audio files.
 
 It helps users organize, browse, import, and play their personal music library on mobile devices with a clean interface, stable playback, and practical controls for everyday listening.
 
----
+<br>
 
 ## Core Features
 
 - 🎵 Local Music Playback — play audio files stored on Android phones, Android tablets, iPhone, and iPad
-- 🎶 Offline Platform Music Playback — play Spotify, Apple Music, Amazon Music, etc. offline on iOS/Android
 - 📱 Cross-Platform Mobile Support — designed for both Android and iOS devices
 - 📂 File Import Methods — import music through full-device scanning or WiFi transfer
 - 🔎 Full-Device Scan — scan local storage to detect and organize available audio files
@@ -22,7 +21,7 @@ It helps users organize, browse, import, and play their personal music library o
 - 🔒 Offline Listening — enjoy local music without requiring a streaming account or network connection
 - 🧩 Format Compatibility — support common audio formats for everyday music playback
 
----
+<br>
 
 ## File Import Methods
 
@@ -54,17 +53,27 @@ To use WiFi Transfer, the phone and computer must be connected to the same WiFi 
 
    Enter the address in your computer browser, then upload songs.
 
----
+<br>
+
+## Download TuneFab Player
+
+Get TuneFab Player on Android and iOS.
+
+| Google Play | App Store |
+|---|---|
+| [Download on Google Play](https://play.google.com/store/apps/details?id=com.player.tunefab&referrer=utm_source%3Dwebpage%26utm_medium%3Ddirect%26utm_campaign%3Dtfplayer-1.0) | [Download on the App Store](https://apps.apple.com/cn/iphone/today) |
+
+<br>
 
 ## About TuneFab Player
 
 TuneFab Player is built for users who want a simple, reliable, and flexible music player for their mobile devices.
 
-Unlike streaming-first music apps, TuneFab Player focuses on offline playback and locally stored audio files, giving users more control over their personal music collection. Whether users keep music on an Android phone, Android tablet, iPhone, or iPad, TuneFab Player makes it easy to import, browse, manage, and enjoy songs anytime, including saved music from Spotify, Apple Music, Amazon Music, and other platforms.
+Unlike streaming-first music apps, TuneFab Player focuses on offline playback and locally stored audio files, giving users more control over their personal music collection. Whether users keep music on an Android phone, Android tablet, iPhone, or iPad, TuneFab Player makes it easy to import, browse, manage, and enjoy songs anytime.
 
 The app is designed for everyday listening, offline playback, and personal library management. It keeps the experience lightweight while still offering the essential features users expect from a modern mobile music player.
 
----
+<br>
 
 ## Screenshots & Preview
 
@@ -72,7 +81,7 @@ The app is designed for everyday listening, offline playback, and personal libra
 |---|---|---|---|---|
 | <img src="screenshotsartists.png" width="220" alt="Artists Page"> | <img src="screenshotshome.png" width="220" alt="Home Page"> | <img src="screenshotsinitial.png" width="220" alt="Initial Page"> | <img src="screenshotsimport-methods.png" width="220" alt="Import Methods"> | <img src="screenshotswifi-transfer.png" width="220" alt="WiFi Transfer"> |
 
----
+<br>
 
 ## Why Use TuneFab Player?
 
@@ -90,11 +99,10 @@ The app is designed for everyday listening, offline playback, and personal libra
 | Simple playback controls | ✅ | ✅ |
 | Personal music ownership | ✅ | ⚠️ |
 
----
+<br>
 
 ## Use Cases
 
-- Play Spotify, Apple Music, Amazon Music, etc. offline on iOS/Android
 - Listen to downloaded music offline
 - Import songs through full-device scanning
 - Transfer music from a computer to a phone over WiFi
@@ -105,7 +113,7 @@ The app is designed for everyday listening, offline playback, and personal libra
 - Use a clean mobile player for everyday listening
 - Keep personal audio files accessible across mobile devices
 
----
+<br>
 
 ## System Requirements
 
@@ -116,21 +124,22 @@ The app is designed for everyday listening, offline playback, and personal libra
 - Recommended: Android 8.0 or later
 - Recommended: iOS 13 or later
 
----
+<br>
 
 ## Advantages of TuneFab Player
 
 - Clean and lightweight mobile music experience
 - Designed for both Android and iOS users
 - Supports full-device scanning and WiFi music transfer
-- Supports offline playback for saved music from Spotify, Apple Music, Amazon Music, and more
 - Focused on local music playback and offline listening
 - Simple library browsing and playback controls
 - Suitable for daily use, travel, study, work, and offline entertainment
 - Gives users more control over their personal music collection
 
----
+<br>
 
 ## SEO Keywords
 
-TuneFab Player, Android music player, iOS music player, iPhone music player, iPad music player, local music player, offline music player, Spotify offline player, Apple Music offline player, Amazon Music offline player, WiFi music transfer, full-device music scan, mobile music player, MP3 player for Android, MP3 player for iPhone, TuneFab audio player, lightweight music app, music library player, offline audio player
+TuneFab Player, Android music player, iOS music player, iPhone music player, iPad music player, local music player, offline music player, WiFi music transfer, full-device music scan, mobile music player, MP3 player for Android, MP3 player for iPhone, TuneFab audio player, lightweight music app, music library player, offline audio player
+
+<br>
