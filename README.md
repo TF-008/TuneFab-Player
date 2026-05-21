@@ -79,7 +79,7 @@ The app is designed for everyday listening, offline playback, and personal libra
 
 | Artists | Home | Initial | Import Methods | WiFi Transfer |
 |---|---|---|---|---|
-| <img src="screenshotsartists.png" width="220" alt="Artists Page"> | <img src="screenshotshome.png" width="220" alt="Home Page"> | <img src="screenshotsinitial.png" width="220" alt="Initial Page"> | <img src="screenshotsimport-methods.png" width="220" alt="Import Methods"> | <img src="screenshotswifi-transfer.png" width="220" alt="WiFi Transfer"> |
+| <img src="screenshots/artists.png" width="180" alt="Artists Page"> | <img src="screenshots/home.png" width="180" alt="Home Page"> | <img src="screenshots/initial.png" width="180" alt="Initial Page"> | <img src="screenshots/import-methods.png" width="180" alt="Import Methods"> | <img src="screenshots/wifi-transfer.png" width="180" alt="WiFi Transfer"> |
 
 <br>
 
@@ -103,8 +103,8 @@ The app is designed for everyday listening, offline playback, and personal libra
 
 ## Use Cases
 
-<p align="center">
-  <img src="assets/use-cases-banner.png" width="900" alt="TuneFab Player use cases">
+<p align="left">
+  <img src="use-cases-banner.png" width="900" alt="TuneFab Player use cases">
 </p>
 
 - Keep a personal offline music library on your phone without needing any streaming subscription.
