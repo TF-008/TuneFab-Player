@@ -103,15 +103,21 @@ The app is designed for everyday listening, offline playback, and personal libra
 
 ## Use Cases
 
-- Listen to downloaded music offline
-- Import songs through full-device scanning
-- Transfer music from a computer to a phone over WiFi
-- Manage local songs on Android and iOS devices
-- Play music without needing a streaming account
-- Organize a personal music library by songs, albums, artists, and playlists
-- Enjoy lightweight playback without unnecessary distractions
-- Use a clean mobile player for everyday listening
-- Keep personal audio files accessible across mobile devices
+<p align="center">
+  <img src="assets/use-cases-banner.png" width="900" alt="TuneFab Player use cases">
+</p>
+
+- Keep a personal offline music library on your phone without needing any streaming subscription.
+- Listen to downloaded songs during commuting, flights, and other low‑signal situations.
+- Import audio files from your computer and other devices, then sync them to your phone over Wi‑Fi for on‑the‑go listening.
+- Scan your device storage to automatically find music files and organize them by songs, albums, artists, and playlists.
+- Play background music while gaming on mobile without pop‑ups, ads, or in‑game interruptions.
+- Build focused workout, running, and training playlists that stay available offline at the gym or outdoors.
+- Save news programs, podcasts, and talk shows as audio files so avid news readers can listen anytime, anywhere.
+- Create themed playlists for shopping, studying, relaxing, or social gatherings with friends.
+- Manage multi‑language libraries (for example English, German, Japanese tracks) in one clean interface using custom playlists.
+- Preview personal mixes, edits, and demo tracks on a phone before sharing them on social media or other platforms.
+- Use a lightweight, distraction‑free mobile player for everyday listening with full control over your local audio files.
 
 <br>
 
