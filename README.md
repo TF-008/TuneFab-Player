@@ -61,7 +61,7 @@ Get TuneFab Player on Android and iOS.
 
 | Google Play | App Store |
 |---|---|
-| [Download on Google Play](https://play.google.com/store/apps/details?id=com.player.tunefab&referrer=utm_source%3Dwebpage%26utm_medium%3Ddirect%26utm_campaign%3Dtfplayer-1.0) | [Download on the App Store](https://apps.apple.com/cn/iphone/today) |
+<img src="qrcodes/google-play.png" width="180" alt="Google Play QR Code"> | <img src="qrcodes/app-store.png" width="180" alt="App Store QR Code">
 
 <br>
 
