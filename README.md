@@ -6,6 +6,16 @@ It helps users organize, browse, import, and play their personal music library o
 
 <br>
 
+## Download TuneFab Player
+
+Get TuneFab Player on Android and iOS.
+
+| Google Play | App Store |
+|---|---|
+<img src="qrcodes/google-play.png" width="180" alt="Google Play QR Code"> | <img src="qrcodes/app-store.png" width="180" alt="App Store QR Code">
+
+<br>
+
 ## Core Features
 
 - 🎵 Local Music Playback — play audio files stored on Android phones, Android tablets, iPhone, and iPad
@@ -52,16 +62,6 @@ To use WiFi Transfer, the phone and computer must be connected to the same WiFi 
 3. Open the address on your computer
 
    Enter the address in your computer browser, then upload songs.
-
-<br>
-
-## Download TuneFab Player
-
-Get TuneFab Player on Android and iOS.
-
-| Google Play | App Store |
-|---|---|
-<img src="qrcodes/google-play.png" width="180" alt="Google Play QR Code"> | <img src="qrcodes/app-store.png" width="180" alt="App Store QR Code">
 
 <br>
 
