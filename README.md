@@ -107,7 +107,7 @@ The app is designed for everyday listening, offline playback, and personal libra
 ## Use Cases
 
 <p align="left">
-  <img src="use-cases-banner.png" width="900" alt="TuneFab Player use cases">
+  <img src="screenshots/use-cases-banner.png" width="900" alt="TuneFab Player use cases">
 </p>
 
 - Keep a personal offline music library on your phone without needing any streaming subscription.
