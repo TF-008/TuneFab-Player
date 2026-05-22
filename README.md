@@ -65,6 +65,8 @@ To use WiFi Transfer, the phone and computer must be connected to the same WiFi 
 
    Enter the address in your computer browser, then upload songs.
 
+<img src="screenshots/wifi-transfer-steps.png" width="900" alt="WiFi Transfer Steps">
+
 <br>
 
 ## About TuneFab Player
