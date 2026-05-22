@@ -92,7 +92,6 @@ The app is designed for everyday listening, offline playback, and personal libra
 | Android support | ✅  | ✅  |
 | iOS support | ✅  | ⚠️  |
 | Local music playback | ✅  | ✅  |
-| Spotify / Apple Music / Amazon Music offline playback | ✅  | ⚠️  |
 | Full-device scanning | ✅  | ⚠️  |
 | WiFi transfer | ✅  | ⚠️  |
 | Offline listening | ✅  | ⚠️  |
